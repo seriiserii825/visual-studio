@@ -1,0 +1,58 @@
+[2018-03-10 10:08:11.020] [sharedprocess] [info] main {"machineId":"49890f74ca6acc2b50c01271a5f87007eea0109525f7d6e5ff66096cac1b45ff"}
+[2018-03-10 10:08:11.070] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:08:11.179] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:08:14.543] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:08:14.558] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:08:14.589] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:08:14.873] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:08:14.877] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:08:17.565] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:08:51.035] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-10 10:09:20.108] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:09:20.114] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:09:20.128] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:09:20.276] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:09:20.283] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:09:22.621] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:09:41.904] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:09:41.909] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:09:41.918] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:09:42.020] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:09:42.024] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:14:22.731] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:14:44.118] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:14:44.124] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:14:44.128] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:14:44.224] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:14:44.230] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:14:44.287] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:14:44.335] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:14:49.317] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:14:49.322] [sharedprocess] [info] Scanned user extensions: 0
+[2018-03-10 10:14:49.389] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:14:49.395] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:15:44.575] [sharedprocess] [info] Installing extension: prettier-vscode
+[2018-03-10 10:15:46.512] [sharedprocess] [info] Downloaded extension: prettier-vscode
+[2018-03-10 10:16:00.076] [sharedprocess] [info] Extracted extension to /home/serii/.vscode/extensions/esbenp.prettier-vscode-1.2.2: esbenp.prettier-vscode-1.2.2
+[2018-03-10 10:16:00.172] [sharedprocess] [info] Updated metadata of the extension: esbenp.prettier-vscode-1.2.2
+[2018-03-10 10:16:00.173] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2018-03-10 10:16:00.356] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-10 10:16:00.399] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:19:22.766] [sharedprocess] [info] Scanned user extensions: 1
+[2018-03-10 10:20:06.149] [sharedprocess] [info] Installing extension: code-beautifier
+[2018-03-10 10:20:07.135] [sharedprocess] [info] Downloaded extension: code-beautifier
+[2018-03-10 10:20:07.796] [sharedprocess] [info] Extracted extension to /home/serii/.vscode/extensions/michelemelluso.code-beautifier-1.7.2: michelemelluso.code-beautifier-1.7.2
+[2018-03-10 10:20:07.841] [sharedprocess] [info] Updated metadata of the extension: michelemelluso.code-beautifier-1.7.2
+[2018-03-10 10:20:07.842] [sharedprocess] [info] Extensions installed successfully: michelemelluso.code-beautifier
+[2018-03-10 10:20:08.012] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-10 10:20:08.075] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:20:31.884] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-10 10:20:31.885] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-10 10:20:31.886] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-10 10:20:31.903] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-10 10:20:31.906] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-10 10:20:32.005] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:20:32.011] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:20:32.016] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 10:20:35.234] [sharedprocess] [info] Scanned user extensions: 2
+[2018-03-10 10:25:35.350] [sharedprocess] [info] Scanned user extensions: 2
