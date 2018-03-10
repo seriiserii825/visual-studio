@@ -34,3 +34,177 @@
 [2018-03-10 10:23:09.028] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
 [2018-03-10 10:23:09.050] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
 [2018-03-10 10:23:09.050] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain
+[2018-03-10 10:43:46.897] [exthost1] [info] extension host started
+[2018-03-10 10:43:46.939] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-10 10:43:46.939] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-10 10:43:47.049] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-10 10:43:47.049] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-10 10:43:47.264] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-10 10:43:47.264] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-10 10:43:47.290] [exthost1] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2018-03-10 10:43:47.290] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/alefragnani.project-manager-0.24.1/out/src/extension
+[2018-03-10 10:43:47.325] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-03-10 10:43:47.325] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-03-10 10:43:47.345] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-03-10 10:43:47.345] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/esbenp.prettier-vscode-1.2.2/out/src/extension
+[2018-03-10 10:43:47.693] [exthost1] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier {"startup":true,"activationEvent":"*"}
+[2018-03-10 10:43:47.693] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/michelemelluso.code-beautifier-1.7.2/out/src/extension
+[2018-03-10 10:43:47.721] [exthost1] [info] eager extensions activated
+[2018-03-10 10:43:47.744] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 10:43:47.744] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css/client/out/cssMain
+[2018-03-10 10:43:47.844] [exthost1] [info] ExtensionService#_doActivateExtension mrmlnc.vscode-scss {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 10:43:47.844] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/out/client.js
+[2018-03-10 10:50:07.061] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-10 10:50:07.061] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-03-10 10:50:07.091] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-10 10:50:07.091] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain
+[2018-03-10 10:51:30.405] [exthost1] [info] ExtensionService#_doActivateExtension wmaurer.vscode-jumpy {"startup":false,"activationEvent":"onCommand:extension.jumpy-word"}
+[2018-03-10 10:51:30.405] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/wmaurer.vscode-jumpy-0.3.1/out/src/extension
+[2018-03-10 11:00:17.527] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-03-10 11:00:17.528] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain
+[2018-03-10 11:13:21.534] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-03-10 11:13:21.534] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript/out/extension
+[2018-03-10 11:16:24.043] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-03-10 11:16:24.043] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
+[2018-03-10 12:04:39.517] [exthost1] [error] TypeError: Cannot read property 'line' of undefined
+	at vscode.commands.registerCommand.args (/home/serii/.vscode/extensions/wmaurer.vscode-jumpy-0.3.1/out/src/extension.js:73:81)
+	at e._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:380)
+	at e.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:797)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:832)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:550)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:658)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:427)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:494
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:343
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:749
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:992)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:143:227)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20) type
+[2018-03-10 12:04:39.666] [exthost1] [error] TypeError: Cannot read property 'line' of undefined
+	at vscode.commands.registerCommand.args (/home/serii/.vscode/extensions/wmaurer.vscode-jumpy-0.3.1/out/src/extension.js:73:81)
+	at e._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:380)
+	at e.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:797)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:832)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:550)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:658)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:427)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:494
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:343
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:749
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:992)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:143:227)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20) type
+[2018-03-10 12:14:51.191] [exthost1] [info] extension host started
+[2018-03-10 12:14:51.235] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:14:51.235] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-10 12:14:51.349] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:14:51.349] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-10 12:14:51.577] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:14:51.577] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-10 12:14:51.607] [exthost1] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:14:51.607] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/alefragnani.project-manager-0.24.1/out/src/extension
+[2018-03-10 12:14:51.641] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:14:51.641] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-03-10 12:14:51.662] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:14:51.662] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/esbenp.prettier-vscode-1.2.2/out/src/extension
+[2018-03-10 12:14:52.013] [exthost1] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:14:52.013] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/michelemelluso.code-beautifier-1.7.2/out/src/extension
+[2018-03-10 12:14:52.042] [exthost1] [info] eager extensions activated
+[2018-03-10 12:14:52.063] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:14:52.063] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css/client/out/cssMain
+[2018-03-10 12:14:52.164] [exthost1] [info] ExtensionService#_doActivateExtension mrmlnc.vscode-scss {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:14:52.164] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/out/client.js
+[2018-03-10 12:15:41.694] [exthost1] [info] ExtensionService#_doActivateExtension wmaurer.vscode-jumpy {"startup":false,"activationEvent":"onCommand:extension.jumpy-word"}
+[2018-03-10 12:15:41.694] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/wmaurer.vscode-jumpy-0.3.1/out/src/extension
+[2018-03-10 12:20:39.699] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-10 12:20:39.699] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/configuration-editing/out/extension
+[2018-03-10 12:20:39.721] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-03-10 12:20:39.721] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/json/client/out/jsonMain
+[2018-03-10 12:20:40.071] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-03-10 12:20:40.071] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript/out/extension
+[2018-03-10 12:24:28.477] [exthost1] [info] ExtensionService#_doActivateExtension vscode.html {"startup":false,"activationEvent":"onLanguage:html"}
+[2018-03-10 12:24:28.477] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/html/client/out/htmlMain
+[2018-03-10 12:37:38.688] [exthost1] [error] TypeError: Cannot read property 'line' of undefined
+	at vscode.commands.registerCommand.args (/home/serii/.vscode/extensions/wmaurer.vscode-jumpy-0.3.1/out/src/extension.js:73:81)
+	at e._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:380)
+	at e.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:797)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:832)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:550)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:658)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:427)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:494
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:343
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:749
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:992)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:143:227)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20) type
+[2018-03-10 12:37:38.954] [exthost1] [error] TypeError: Cannot read property 'line' of undefined
+	at vscode.commands.registerCommand.args (/home/serii/.vscode/extensions/wmaurer.vscode-jumpy-0.3.1/out/src/extension.js:73:81)
+	at e._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:380)
+	at e.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:797)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:832)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:550)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:658)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:427)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:494
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:343
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:749
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:992)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:143:227)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20) type
+[2018-03-10 12:48:16.569] [exthost1] [info] extension host started
+[2018-03-10 12:48:16.611] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:48:16.612] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-10 12:48:16.730] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:48:16.730] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-10 12:48:16.954] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:48:16.954] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-10 12:48:16.982] [exthost1] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:48:16.982] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/alefragnani.project-manager-0.24.1/out/src/extension
+[2018-03-10 12:48:17.019] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:48:17.019] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-03-10 12:48:17.040] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:48:17.040] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/esbenp.prettier-vscode-1.2.2/out/src/extension
+[2018-03-10 12:48:17.400] [exthost1] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:48:17.400] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/michelemelluso.code-beautifier-1.7.2/out/src/extension
+[2018-03-10 12:48:17.429] [exthost1] [info] eager extensions activated
+[2018-03-10 12:48:17.445] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:48:17.445] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css/client/out/cssMain
+[2018-03-10 12:48:17.543] [exthost1] [info] ExtensionService#_doActivateExtension mrmlnc.vscode-scss {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:48:17.543] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/out/client.js
+[2018-03-10 12:56:30.026] [exthost1] [info] extension host started
+[2018-03-10 12:56:30.074] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:56:30.074] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-10 12:56:30.192] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:56:30.192] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-10 12:56:30.412] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:56:30.413] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-10 12:56:30.443] [exthost1] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:56:30.443] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/alefragnani.project-manager-0.24.1/out/src/extension
+[2018-03-10 12:56:30.478] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:56:30.478] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-03-10 12:56:30.499] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:56:30.499] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/esbenp.prettier-vscode-1.2.2/out/src/extension
+[2018-03-10 12:56:30.850] [exthost1] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:56:30.850] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/michelemelluso.code-beautifier-1.7.2/out/src/extension
+[2018-03-10 12:56:30.879] [exthost1] [info] eager extensions activated
+[2018-03-10 12:56:30.902] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:56:30.902] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css/client/out/cssMain
+[2018-03-10 12:56:31.002] [exthost1] [info] ExtensionService#_doActivateExtension mrmlnc.vscode-scss {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:56:31.002] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/out/client.js

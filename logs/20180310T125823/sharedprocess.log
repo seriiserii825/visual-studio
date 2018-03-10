@@ -1,0 +1,38 @@
+[2018-03-10 12:58:24.774] [sharedprocess] [info] main {"machineId":"49890f74ca6acc2b50c01271a5f87007eea0109525f7d6e5ff66096cac1b45ff"}
+[2018-03-10 12:58:24.852] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-10 12:58:24.947] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:58:26.683] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-10 12:58:26.687] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-10 12:58:26.744] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:58:29.906] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-10 12:58:31.557] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-10 12:58:31.564] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-10 12:58:31.566] [sharedprocess] [info] Scanned user extensions: 6
+[2018-03-10 12:58:31.670] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:58:31.676] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:58:57.580] [sharedprocess] [info] Installing extension: codeacejumper
+[2018-03-10 12:58:58.667] [sharedprocess] [info] Downloaded extension: codeacejumper
+[2018-03-10 12:59:01.109] [sharedprocess] [info] Extracted extension to /home/serii/.vscode/extensions/lucax88x.codeacejumper-1.1.5: lucax88x.codeacejumper-1.1.5
+[2018-03-10 12:59:01.169] [sharedprocess] [info] Updated metadata of the extension: lucax88x.codeacejumper-1.1.5
+[2018-03-10 12:59:01.170] [sharedprocess] [info] Extensions installed successfully: lucax88x.codeacejumper
+[2018-03-10 12:59:01.341] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 12:59:01.391] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:59:04.790] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-03-10 12:59:41.957] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 12:59:41.959] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 12:59:41.970] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 12:59:41.982] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 12:59:41.986] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 12:59:42.097] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:59:42.104] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:59:42.110] [sharedprocess] [info] Scanned system extensions: 65
+[2018-03-10 12:59:45.303] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:04:45.430] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:09:45.614] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:14:45.643] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:19:45.661] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:24:45.682] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:29:45.704] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:34:45.725] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:39:45.749] [sharedprocess] [info] Scanned user extensions: 7
+[2018-03-10 13:44:45.772] [sharedprocess] [info] Scanned user extensions: 7

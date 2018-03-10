@@ -1,0 +1,20 @@
+[2018-03-10 12:57:22.241] [exthost1] [info] extension host started
+[2018-03-10 12:57:22.280] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:57:22.281] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-03-10 12:57:22.401] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:57:22.401] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-03-10 12:57:22.637] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:57:22.637] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-03-10 12:57:22.667] [exthost1] [info] ExtensionService#_doActivateExtension alefragnani.project-manager {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:57:22.667] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/alefragnani.project-manager-0.24.1/out/src/extension
+[2018-03-10 12:57:22.702] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:57:22.702] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/christian-kohler.path-intellisense-1.4.2/out/src/extension
+[2018-03-10 12:57:22.724] [exthost1] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:57:22.724] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/esbenp.prettier-vscode-1.2.2/out/src/extension
+[2018-03-10 12:57:23.074] [exthost1] [info] ExtensionService#_doActivateExtension michelemelluso.code-beautifier {"startup":true,"activationEvent":"*"}
+[2018-03-10 12:57:23.074] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/michelemelluso.code-beautifier-1.7.2/out/src/extension
+[2018-03-10 12:57:23.106] [exthost1] [info] eager extensions activated
+[2018-03-10 12:57:23.130] [exthost1] [info] ExtensionService#_doActivateExtension vscode.css {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:57:23.131] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/css/client/out/cssMain
+[2018-03-10 12:57:23.231] [exthost1] [info] ExtensionService#_doActivateExtension mrmlnc.vscode-scss {"startup":false,"activationEvent":"onLanguage:scss"}
+[2018-03-10 12:57:23.231] [exthost1] [info] ExtensionService#loadCommonJSModule /home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/out/client.js

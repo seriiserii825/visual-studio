@@ -24,3 +24,4 @@ fatal: Not a git repository (or any of the parent directories): .git
 fatal: Not a git repository (or any of the parent directories): .git
 > git show :src/assets/sass/partials/_fonts.scss
 > git show :src/assets/sass/partials/_fonts.scss
+> git show :src/assets/sass/partials/_fonts.scss

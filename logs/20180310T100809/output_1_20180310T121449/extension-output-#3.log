@@ -1,0 +1,4 @@
+[Info  - 12:20:40 PM] Using tsserver from: /usr/share/code/resources/app/extensions/node_modules/typescript/lib
+[Info  - 12:20:40 PM] Forking TSServer
+PATH: /home/serii/bin:/home/serii/.local/bin:/home/serii/.nvm/versions/node/v6.12.2/bin:/home/serii/bin:/home/serii/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin
+[Info  - 12:20:40 PM] Started TSServer

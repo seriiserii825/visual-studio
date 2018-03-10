@@ -1,0 +1,71 @@
+[2018-03-10 10:39:12.725] [renderer1] [info] Requested uninstalling the extension robinbentley.sass-indented from window 1
+[2018-03-10 10:39:12.749] [renderer1] [info] Uninstalling the extension robinbentley.sass-indented-1.4.8 from window 1
+[2018-03-10 10:42:29.184] [renderer1] [info] Requested uninstalling the extension Shan.code-settings-sync from window 1
+[2018-03-10 10:42:29.241] [renderer1] [info] Uninstalling the extension Shan.code-settings-sync-2.9.0 from window 1
+[2018-03-10 11:17:55.759] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-03-10 11:18:01.897] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-03-10 11:18:29.291] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2018-03-10 11:40:34.796] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:465:812)
+	at asHover (/home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/node_modules/vscode-languageclient/lib/protocolConverter.js:62:16)
+	at <anonymous>
+	at process._tickCallback (internal/process/next_tick.js:109:7)
+[2018-03-10 11:40:41.074] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:465:812)
+	at asHover (/home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/node_modules/vscode-languageclient/lib/protocolConverter.js:62:16)
+	at <anonymous>
+	at process._tickCallback (internal/process/next_tick.js:109:7)
+[2018-03-10 12:04:39.590] [renderer1] [error] Running the contributed command:'type' failed.: Error: Running the contributed command:'type' failed.
+	at e._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:476)
+	at e.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:797)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:832)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:550)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:658)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:427)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:494
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:343
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:749
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:992)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:143:227)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
+[2018-03-10 12:15:08.674] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:465:812)
+	at asHover (/home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/node_modules/vscode-languageclient/lib/protocolConverter.js:62:16)
+	at <anonymous>
+	at process._tickCallback (internal/process/next_tick.js:109:7)
+[2018-03-10 12:18:06.205] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:465:812)
+	at asHover (/home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/node_modules/vscode-languageclient/lib/protocolConverter.js:62:16)
+	at <anonymous>
+	at process._tickCallback (internal/process/next_tick.js:109:7)
+[2018-03-10 12:18:20.700] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:465:812)
+	at asHover (/home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/node_modules/vscode-languageclient/lib/protocolConverter.js:62:16)
+	at <anonymous>
+	at process._tickCallback (internal/process/next_tick.js:109:7)
+[2018-03-10 12:23:22.674] [renderer1] [error] Illegal argument, contents must be defined: Error: Illegal argument, contents must be defined
+	at new <anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:465:812)
+	at asHover (/home/serii/.vscode/extensions/mrmlnc.vscode-scss-0.6.2/node_modules/vscode-languageclient/lib/protocolConverter.js:62:16)
+	at <anonymous>
+	at process._tickCallback (internal/process/next_tick.js:109:7)
+[2018-03-10 12:37:38.759] [renderer1] [error] Running the contributed command:'type' failed.: Error: Running the contributed command:'type' failed.
+	at e._executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:476)
+	at e.$executeContributedCommand (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:620:797)
+	at e._doInvokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:832)
+	at e._invokeHandler (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:587:550)
+	at e._receiveRequest (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:658)
+	at e._receiveOneMessage (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:586:427)
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:585:494
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:588:343
+	at /usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:87:749
+	at e.fire (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:88:992)
+	at Socket.<anonymous> (/usr/share/code/resources/app/out/vs/workbench/node/extensionHostProcess.js:143:227)
+	at emitOne (events.js:96:13)
+	at Socket.emit (events.js:191:7)
+	at readableAddChunk (_stream_readable.js:178:18)
+	at Socket.Readable.push (_stream_readable.js:136:10)
+	at Pipe.onread (net.js:560:20)
